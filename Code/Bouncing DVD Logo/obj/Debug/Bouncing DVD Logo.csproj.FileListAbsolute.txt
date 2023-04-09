@@ -1,0 +1,10 @@
+C:\Users\ayand\OneDrive\Desktop\Projects\Bouncing DVD Logo\Bouncing DVD Logo\bin\Debug\Bouncing DVD Logo.exe.config
+C:\Users\ayand\OneDrive\Desktop\Projects\Bouncing DVD Logo\Bouncing DVD Logo\bin\Debug\Bouncing DVD Logo.exe
+C:\Users\ayand\OneDrive\Desktop\Projects\Bouncing DVD Logo\Bouncing DVD Logo\bin\Debug\Bouncing DVD Logo.pdb
+C:\Users\ayand\OneDrive\Desktop\Projects\Bouncing DVD Logo\Bouncing DVD Logo\obj\Debug\Bouncing DVD Logo.csproj.AssemblyReference.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\Bouncing DVD Logo\Bouncing DVD Logo\obj\Debug\Bouncing_DVD_Logo.Form1.resources
+C:\Users\ayand\OneDrive\Desktop\Projects\Bouncing DVD Logo\Bouncing DVD Logo\obj\Debug\Bouncing_DVD_Logo.Properties.Resources.resources
+C:\Users\ayand\OneDrive\Desktop\Projects\Bouncing DVD Logo\Bouncing DVD Logo\obj\Debug\Bouncing DVD Logo.csproj.GenerateResource.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\Bouncing DVD Logo\Bouncing DVD Logo\obj\Debug\Bouncing DVD Logo.csproj.CoreCompileInputs.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\Bouncing DVD Logo\Bouncing DVD Logo\obj\Debug\Bouncing DVD Logo.exe
+C:\Users\ayand\OneDrive\Desktop\Projects\Bouncing DVD Logo\Bouncing DVD Logo\obj\Debug\Bouncing DVD Logo.pdb
